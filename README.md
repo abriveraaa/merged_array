@@ -21,7 +21,7 @@
       - [Code Breakdown:](#code-breakdown)
         - [1. Required Headers:](#1-required-headers)
         - [2. User Input for Arrays N and B:](#2-user-input-for-arrays-n-and-b)
-        - [3. Copying Elements of N to MERGE_ARRAY:](#3-copying-elements-of-n-to-merge_array)
+        - [3. Copying Elements of N to MERGE\_ARRAY:](#3-copying-elements-of-n-to-merge_array)
         - [4. Adding Unique Elements from B:](#4-adding-unique-elements-from-b)
         - [5. Displaying the Arrays:](#5-displaying-the-arrays)
       - [Example Run:](#example-run)
@@ -118,9 +118,7 @@ Ariel Rivera       2025-03-23      Initial Build        1.0.0
 
 #### Program Flowchart
 
-<!-- draw.io diagram -->
-<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;dark-mode&quot;:&quot;auto&quot;,&quot;toolbar&quot;:&quot;zoom layers tags lightbox&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1gM6HLYyhABs0PYNEAtCbCGg9yxgQUMoQ&amp;export=download&quot;}"></div>
-<script type="text/javascript" src="https://viewer.diagrams.net/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1gM6HLYyhABs0PYNEAtCbCGg9yxgQUMoQ%26export%3Ddownload"></script>
+Working...
 
 ---
 
